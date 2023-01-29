@@ -2,8 +2,7 @@
 
 ## Non-Solo 127
 
-~~
-1. [[H-01] Reliance on `lifiData.receivingAssetId` can cause loss of funds - Bridge & DEX - Li.FI](https://code4rena.com/reports/2022-03-lifinance/#h-01-reliance-on-lifidatareceivingassetid-can-cause-loss-of-funds)~~
+~~1. [[H-01] Reliance on `lifiData.receivingAssetId` can cause loss of funds - Bridge & DEX - Li.FI]~~(https://code4rena.com/reports/2022-03-lifinance/#h-01-reliance-on-lifidatareceivingassetid-can-cause-loss-of-funds)
 2. [[H-02] All swapping functions lack checks for returned tokens - Bridge & DEX - Li.FI](https://code4rena.com/reports/2022-03-lifinance/#h-02-all-swapping-functions-lack-checks-for-returned-tokens)
 3. [[H-01] Users can lose value in emergency state - Trade, Bridge & DEX - traderjoexyz.com](https://code4rena.com/reports/2022-01-trader-joe/#h-01-users-can-lose-value-in-emergency-state)
 4. [[H-01] Users can get unlimited votes - Trade, Bridge & DEX - app.velodrome.finance](https://code4rena.com/reports/2022-05-velodrome/#h-01-users-can-get-unlimited-votes)
