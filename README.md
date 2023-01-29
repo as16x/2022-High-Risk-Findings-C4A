@@ -1,7 +1,7 @@
 # 2023-High-Risk-Findings-C4A
- [[H-01] Reentrancy in buy function for ERC777 tokens allows buying funds with considerable discount - prepo.io](https://code4rena.com/reports/2022-12-caviar#h-01-reentrancy-in-buy-function-for-erc777-tokens-allows-buying-funds-with-considerable-discount)
- [[H-02] Liquidity providers may lose funds when adding liquidity - prepo.io](https://code4rena.com/reports/2022-12-caviar#h-02-liquidity-providers-may-lose-funds-when-adding-liquidity)
- [[H-03] First depositor can break minting of shares - prepo.io](https://code4rena.com/reports/2022-12-caviar#h-03-first-depositor-can-break-minting-of-shares)
+-. [[H-01] Reentrancy in buy function for ERC777 tokens allows buying funds with considerable discount - prepo.io](https://code4rena.com/reports/2022-12-caviar#h-01-reentrancy-in-buy-function-for-erc777-tokens-allows-buying-funds-with-considerable-discount)
+-. [[H-02] Liquidity providers may lose funds when adding liquidity - prepo.io](https://code4rena.com/reports/2022-12-caviar#h-02-liquidity-providers-may-lose-funds-when-adding-liquidity)
+-. [[H-03] First depositor can break minting of shares - prepo.io](https://code4rena.com/reports/2022-12-caviar#h-03-first-depositor-can-break-minting-of-shares)
 
 # 2022-High-Risk-Findings-C4A
 
