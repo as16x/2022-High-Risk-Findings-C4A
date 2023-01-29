@@ -4,6 +4,9 @@
 * [[H-03] First depositor can break minting of shares - caviar.sh](https://code4rena.com/reports/2022-12-caviar#h-03-first-depositor-can-break-minting-of-shares)
 * [[H-01] griefing / blocking / delaying users to withdraw - prepo.io](https://code4rena.com/reports/2022-12-prepo#h-01-griefing--blocking--delaying-users-to-withdraw)
 * [[H-02] A whale user is able to cause freeze of funds of other users by bypassing withdraw limit - prepo.io](https://code4rena.com/reports/2022-12-prepo#h-02-a-whale-user-is-able-to-cause-freeze-of-funds-of-other-users-by-bypassing-withdraw-limit)
+* [[M-01] An attacker can make users unable to cancel their L1 calls on Ethereum To Arbitrum - pooltogether.com/de](https://code4rena.com/reports/2022-12-pooltogether#m-01-an-attacker-can-make-users-unable-to-cancel-their-l1-calls-on-ethereum-to-arbitrum)
+* [[M-02] When a smart contract calls `CrossChainRelayerArbitrum.processCalls`, excess submission fees may be lost - pooltogether.com/de](https://code4rena.com/reports/2022-12-pooltogether#m-02-when-a-smart-contract-calls-crosschainrelayerarbitrumprocesscalls-excess-submission-fees-may-be-lost)
+* [[M-03] `CrossChainExecutor` contracts do not update the necessary states for failing transactions - pooltogether.com/de](https://code4rena.com/reports/2022-12-pooltogether#m-03-crosschainexecutor-contracts-do-not-update-the-necessary-states-for-failing-transactions)
 
 # 2022-High-Risk-Findings-C4A
 
