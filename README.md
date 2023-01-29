@@ -2,8 +2,8 @@
 * [[H-01] Reentrancy in buy function for ERC777 tokens allows buying funds with considerable discount - caviar.sh](https://code4rena.com/reports/2022-12-caviar#h-01-reentrancy-in-buy-function-for-erc777-tokens-allows-buying-funds-with-considerable-discount)
 * [[H-02] Liquidity providers may lose funds when adding liquidity - caviar.sh](https://code4rena.com/reports/2022-12-caviar#h-02-liquidity-providers-may-lose-funds-when-adding-liquidity)
 * [[H-03] First depositor can break minting of shares - caviar.sh](https://code4rena.com/reports/2022-12-caviar#h-03-first-depositor-can-break-minting-of-shares)
-* [[H-01] griefing / blocking / delaying users to withdraw - prepo.io](https://code4rena.com/reports/2022-12-prepo#h-02-a-whale-user-is-able-to-cause-freeze-of-funds-of-other-users-by-bypassing-withdraw-limit)
-* [[H-02] A whale user is able to cause freeze of funds of other users by bypassing withdraw limit - prepo.io](https://code4rena.com/reports/2022-12-prepo#h-01-griefing--blocking--delaying-users-to-withdraw)
+* [[H-01] griefing / blocking / delaying users to withdraw - prepo.io](https://code4rena.com/reports/2022-12-prepo#h-01-griefing--blocking--delaying-users-to-withdraw)
+* [[H-02] A whale user is able to cause freeze of funds of other users by bypassing withdraw limit - prepo.io](https://code4rena.com/reports/2022-12-prepo#h-02-a-whale-user-is-able-to-cause-freeze-of-funds-of-other-users-by-bypassing-withdraw-limit)
 
 # 2022-High-Risk-Findings-C4A
 
